@@ -1,6 +1,6 @@
 <h1>this is sagar!!</hi>
 <h2>
-this is clone application of <a href="https://himalayausa.com">Himalyausa</a>
+this is clone application of <a href="https://himalayausa.com">Himalyausa.com</a><br />
  i have used :<br />
 </h2>
 <ul>
